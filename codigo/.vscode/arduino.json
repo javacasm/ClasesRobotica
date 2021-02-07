@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "IRRemote3_demo.ino",
+    "programmer": "AVR ISP",
+    "port": "/dev/ttyACM0"
+}
